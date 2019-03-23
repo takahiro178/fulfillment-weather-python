@@ -25,7 +25,7 @@ a valid WWO API key for retrieving weather up to 14 days in the future. Get an
 WWO API key here: https://developer.worldweatheronline.com/api/
 """
 
-WWO_API_KEY = '195657'
+WWO_API_KEY = 'AIzaSyBHZR299hUuC5xuMYZuOm-ORLL_QtyedRw'
 MAX_FORECAST_LEN = 13
 _DEFAULT_TEMP_UNIT = 'F'
 
